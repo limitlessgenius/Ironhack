@@ -1,0 +1,27 @@
+attempted solution
+
+def printer
+
+ratings_array.each do |ratings|
+
+	i = 10
+
+	while (i != 0) do
+
+		if (rating <= i)
+
+			puts "|"
+
+		elsif (ratomg => i)
+
+			puts "*"
+
+		end
+
+		i-=1
+
+	end
+
+	print " "
+
+end
